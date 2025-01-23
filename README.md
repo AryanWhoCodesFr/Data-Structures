@@ -1,4 +1,3 @@
-
 // Display all elements of the array
 
 // Add an element at the start of the array
