@@ -110,5 +110,5 @@ int main()
     scanf("%d", &total);
     create_multiple_nodes(total);
 
-    return 10;
+    return 0;
 }
